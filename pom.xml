@@ -17,8 +17,8 @@ pom.xml — файл для управления зависимостями пр
 		<version>4.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.nomanspace</groupId>
-	<artifactId>bank</artifactId>
+	<groupId>com.example.bankcards</groupId>
+	<artifactId>bank-rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
